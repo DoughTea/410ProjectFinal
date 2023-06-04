@@ -1,6 +1,5 @@
 # 410ProjectProposal
 # Summary
-<<<<<<< HEAD
 This looking into the price of different Porsches and what facotors effect price. The goal of  this research is to find out if I can own one many years from now. This research looks for trends that might suggest that I will not be able to.
 
 # First Steps
@@ -19,6 +18,3 @@ Deciding what I was going to vizualize was mostly going off my gut. I have been 
 
 # Conclusions
 Can't really draw any conclusions from the data that I had. There is just not enough of it. The price of automatics does start to rise in the late 2000's but that could be attributed to the cars just being newer.
-=======
-This looking into the price of different Porsches and what facotors effect price. The goal of  this research is to find out if I can own one many years from now. This research looks for trends that might suggest that I will not be able to.
->>>>>>> ae32a189695328150ea1bfa80d93d398da605056
