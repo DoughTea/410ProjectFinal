@@ -1,0 +1,1 @@
+In this research I looked for trends in prices for Porsches. I looked into how the transmission affects the price. With the end goal to find out when automatics became more expensive than manuals. I used tools like tableau, Altair, and sqlite3. In the end I was not able to make any conclusions that would be certain, there was not enough data. I still did learn a lot. 
